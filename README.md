@@ -1,4 +1,4 @@
-# Ionic4 photo-gallery
+# Ionic/Angular photo-gallery
 Tutorial Source: https://ionicframework.com/docs/angular/your-first-app
 This script is based on a tutorial by the Ionic team to demostrate how to develope a simple gallery application which you can test and deply on multiple platforms suchs as IOS or Android devices using HTML, CSS, Javascript and Typescript.
 ## Requirements:
